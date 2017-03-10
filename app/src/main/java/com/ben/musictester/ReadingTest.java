@@ -142,7 +142,7 @@ public class ReadingTest extends AppCompatActivity {
         E.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 if (++buttonPressed == 1) {
-                    checkAnswer(Ei;
+                    checkAnswer(Ei);
                     createDialog();
                 }
             }
@@ -170,7 +170,7 @@ public class ReadingTest extends AppCompatActivity {
 
     private void checkAnswer(int userChoice) {
 
-        numTestsReading++
+        numTestsReading++;
         isCorrect = false;
         for (int i = 0; i < MAX_REPETITIONS; i += OCTAVE){
             if (userChoice + i == noteDecider) {
