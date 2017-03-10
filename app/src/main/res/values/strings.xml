@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicTester</string>
+
+    <string name="title_activity_pitch_test">pitchTest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="finish">End Test</string>
+    <string name="next_question">Next Question</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect.</string>
+</resources>

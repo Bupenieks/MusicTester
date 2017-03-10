@@ -1,0 +1,7 @@
+#Wed Mar 08 16:33:51 EST 2017
+base.0=/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4863089b77486b9300646c93760703607cd5ca6e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_013df52850c46c2203f83561a71c8a7c6d7b7bcd/classes.dex
+base.1=/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_013df52850c46c2203f83561a71c8a7c6d7b7bcd
+file.0=/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4863089b77486b9300646c93760703607cd5ca6e/classes.dex

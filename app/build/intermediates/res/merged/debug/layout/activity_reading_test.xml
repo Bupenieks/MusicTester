@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ben.musictester.ReadingTest">
+
+
+    <TextView
+        android:id="@+id/numtests"
+        android:layout_width="36dp"
+        android:layout_height="26dp"
+        android:layout_marginLeft="21dp"
+        android:text="0"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintBaseline_toBaselineOf="@+id/curscore"
+        app:layout_constraintLeft_toRightOf="@+id/divider" />
+
+    <TextView
+        android:id="@+id/divider"
+        android:layout_width="19dp"
+        android:layout_height="47dp"
+        android:text="/"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="36sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/buttonE"
+        android:layout_width="88dp"
+        android:layout_height="75dp"
+        android:layout_centerHorizontal="true"
+        android:text="E"
+        android:layout_marginTop="31dp"
+        app:layout_constraintTop_toBottomOf="@+id/buttonB"
+        app:layout_constraintRight_toLeftOf="@+id/buttonF"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.859" />
+
+    <Button
+        android:id="@+id/buttonF"
+        android:layout_width="88dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@+id/buttonE"
+        android:text="F"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="12dp"
+        app:layout_constraintTop_toBottomOf="@+id/buttonC"
+        app:layout_constraintHorizontal_bias="0.498"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/radioButton"
+        app:layout_constraintVertical_bias="0.454" />
+
+    <Button
+        android:id="@+id/buttonG"
+        android:layout_width="88dp"
+        android:layout_height="75dp"
+        android:layout_toRightOf="@+id/buttonF"
+        android:text="G"
+        android:layout_marginTop="32dp"
+        app:layout_constraintTop_toBottomOf="@+id/buttonD"
+        app:layout_constraintLeft_toRightOf="@+id/buttonF"
+        android:layout_marginLeft="16dp" />
+
+    <Button
+        android:id="@+id/buttonD"
+        android:layout_width="88dp"
+        android:layout_height="75dp"
+        android:layout_alignBaseline="@+id/buttonB"
+        android:layout_alignBottom="@+id/buttonB"
+        android:layout_toEndOf="@+id/playbutton"
+        android:layout_toRightOf="@+id/playbutton"
+        android:text="D"
+        app:layout_constraintLeft_toRightOf="@+id/buttonC"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        android:layout_marginTop="56dp"
+        app:layout_constraintTop_toBottomOf="@+id/ledgerline1" />
+
+    <Button
+        android:id="@+id/buttonC"
+        android:layout_width="88dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/playbutton"
+        android:layout_toLeftOf="@+id/buttonD"
+        android:layout_toStartOf="@+id/buttonD"
+        android:text="C"
+        app:layout_constraintLeft_toRightOf="@+id/buttonB"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="56dp"
+        app:layout_constraintTop_toBottomOf="@+id/ledgerline1" />
+
+    <Button
+        android:id="@+id/buttonB"
+        android:layout_width="88dp"
+        android:layout_height="75dp"
+        android:layout_alignBaseline="@+id/buttonC"
+        android:layout_alignBottom="@+id/buttonC"
+        android:layout_toLeftOf="@+id/playbutton"
+        android:layout_toStartOf="@+id/playbutton"
+        android:text="B"
+        app:layout_constraintLeft_toRightOf="@+id/buttonA"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="56dp"
+        app:layout_constraintTop_toBottomOf="@+id/ledgerline1" />
+
+    <Button
+        android:id="@+id/buttonA"
+        android:layout_width="88dp"
+        android:layout_height="75dp"
+        android:layout_above="@+id/buttonF"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="8dp"
+        android:text="A"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="56dp"
+        app:layout_constraintTop_toBottomOf="@+id/ledgerline1" />
+
+    <TextView
+        android:id="@+id/curscore"
+        android:layout_width="34dp"
+        android:layout_height="29dp"
+        android:layout_marginRight="-26dp"
+        android:layout_marginTop="8dp"
+        android:text="0"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintRight_toLeftOf="@+id/divider"
+        app:layout_constraintTop_toTopOf="@+id/divider" />
+
+    <TextView
+        android:id="@+id/percentscore"
+        android:layout_width="96dp"
+        android:layout_height="33dp"
+        android:layout_marginTop="8dp"
+        android:text="--"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/divider" />
+
+    <RadioButton
+        android:id="@+id/radioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="♮"
+        android:textSize="30sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        android:layout_marginBottom="8dp" />
+
+    <RadioButton
+        android:id="@+id/radioButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="♯"
+        android:textSize="30sp"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="559dp"
+        android:layout_marginRight="-1dp"
+        app:layout_constraintLeft_toRightOf="@+id/radioButton"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintHorizontal_bias="0.539" />
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="♭"
+        android:textSize="30sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/radioButton"
+        tools:layout_editor_absoluteX="57dp" />
+
+    <ImageView
+        android:id="@+id/ledgerline1"
+        android:layout_width="371dp"
+        android:layout_height="147dp"
+        android:layout_marginTop="46dp"
+        android:scaleType="fitXY"
+        app:layout_constraintHorizontal_bias="0.375"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/percentscore"
+        app:srcCompat="@android:drawable/screen_background_light_transparent"
+        android:layout_marginLeft="8dp" />
+
+    <ImageView
+        android:id="@+id/trebleclef"
+        android:layout_width="74dp"
+        android:layout_height="125dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="60dp"
+        android:scaleType="fitXY"
+        app:layout_constraintHorizontal_bias="0.024"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/percentscore"
+        app:srcCompat="@android:drawable/screen_background_light_transparent"
+        tools:layout_editor_absoluteY="156dp" />
+
+    <ImageView
+        android:id="@+id/noteIV"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        app:srcCompat="@android:drawable/screen_background_light_transparent"
+        tools:layout_editor_absoluteX="145dp"
+        tools:layout_editor_absoluteY="201dp" />
+
+</android.support.constraint.ConstraintLayout>

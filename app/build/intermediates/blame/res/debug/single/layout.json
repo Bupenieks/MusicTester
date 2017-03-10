@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/dialog_elements.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/layout/dialog_elements.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/activity_pitchtest.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/layout/activity_pitchtest.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/activity_reading_test.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/layout/activity_reading_test.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout/notification_template_media.xml"
+    }
+]

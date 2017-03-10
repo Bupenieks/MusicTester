@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/layout-v21/notification_action.xml"
+    }
+]

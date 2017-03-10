@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

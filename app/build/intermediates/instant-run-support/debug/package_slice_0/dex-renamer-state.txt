@@ -1,0 +1,4 @@
+#Mon Mar 06 19:46:12 EST 2017
+base.0=/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex
