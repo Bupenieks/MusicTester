@@ -45,6 +45,7 @@ public class ReadingTest extends AppCompatActivity {
 
     private int noteDecider;
     private int buttonPressed = 0;
+    private int lastNotePlayed;
 
     private String  answer;
     private boolean isCorrect;
@@ -95,13 +96,16 @@ public class ReadingTest extends AppCompatActivity {
     }
 
     private void initTest() {
+        buttonPressed = 0;
         noteImg.setY(NOTE_Y_START_POSITION);
         Random rand = new Random();
         noteDecider = rand.nextInt(NUM_NOTES);
+        while (lastNotePlayed == noteDecider)
+            noteDecider = rand.nextInt(NUM_NOTES);
         noteImg.setY(noteImg.getY() - NOTE_SPACING * noteDecider);
     }
 
-    private void beginTest() {
+    public void beginTest() {
 
         A.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
@@ -172,12 +176,14 @@ public class ReadingTest extends AppCompatActivity {
 
         numTestsReading++;
         isCorrect = false;
-        for (int i = 0; i < MAX_REPETITIONS; i += OCTAVE){
+        for (int i = 0; i < MAX_REPETITIONS * OCTAVE; i += OCTAVE){
             if (userChoice + i == noteDecider) {
                 scoreReading++;
                 isCorrect = true;
+                break;
             }
         }
+        lastNotePlayed = noteDecider;
         updateScores();
     }
 

@@ -1,15 +1,107 @@
 [
     {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/piano_black_key.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/piano_black_key.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/piano_natural_key_border.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/piano_natural_key_border.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/regular_button_layout.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/regular_button_layout.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/ic_sync_black_24dp.xml",
         "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/ic_sync_black_24dp.xml"
     },
     {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/ledgerlines.png",
         "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/ledgerlines.png"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
@@ -32,24 +124,8 @@
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_vector_test.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
@@ -60,20 +136,8 @@
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
@@ -88,28 +152,8 @@
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
@@ -124,48 +168,20 @@
         "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/trebleclef.png"
     },
     {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/darker_button_gradient.xml",
+        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/darker_button_gradient.xml"
     },
     {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.xml",
-        "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/ic_info_black_24dp.xml",
         "source": "/Users/Ben/AndroidStudioProjects/MusicTester/app/src/main/res/drawable/ic_info_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/Ben/.android/build-cache/66ee0a0281f98e833417fb0edd48b1fd50d70b6b/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/Users/Ben/AndroidStudioProjects/MusicTester/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",

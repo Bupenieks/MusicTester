@@ -14,13 +14,13 @@ public class Home extends AppCompatActivity {
         setContentView(R.layout.activity_home);
     }
 
-    private void goToPitchTest(View view) {
+    public void goToPitchTest(View view) {
         Log.d("Home", "Pt Created");
         Intent intent = new Intent(this, PitchTest.class);
         startActivity(intent);
     }
 
-    private void goToReadingTest(View view) {
+    public void goToReadingTest(View view) {
         Log.d("Home", "Rt Created");
         Intent intent = new Intent(this, ReadingTest.class);
         startActivity(intent);
